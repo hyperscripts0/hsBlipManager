@@ -18,7 +18,7 @@
 
 ## Documentation
 
-[documentation](https://hyperscriptss.gitbook.io/).
+[Documentation](https://hyperscriptss.gitbook.io/).
 
 ## Support
 
